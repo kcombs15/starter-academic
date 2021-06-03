@@ -1,50 +1,35 @@
 ---
 title: Kara Combs
 role: Graduate Student
-avatar_filename: https://media-exp1.licdn.com/dms/image/C5603AQHROEsLFW0Jew/profile-displayphoto-shrink_800_800/0/1617223751088?e=1628121600&v=beta&t=g1vkFMVK-0eIO3m7rYPTLg4Fl342Z2HBgRHXmHDubgw
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ""
+bio: Industrial and Human Factors Engineering Graduate Student
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DataAnalysis
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kcombs15
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/karacombs33
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wright State University
+    url: https://www.wright.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: M.S. in Industrial and Human Factors Engineering
+      institution: Wright State University
+      year: 2021
+    - course: B.S. in Industrial and Systems Engineering
+      institution: Wright State University
+      year: 2021
+email: karacombs33@gmail.com
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kara Combs is a graduate student at Wright State University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
